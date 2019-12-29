@@ -1,0 +1,16 @@
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\obj\Debug\RoboticSquadeTest.csprojResolveAssemblyReference.cache
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\obj\Debug\RoboticSquadeTest.csproj.CoreCompileInputs.cache
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\RoboticSquadeTest.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\RoboticSquadeTest.pdb
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\RoboticSquade.exe
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\RoboticSquade.pdb
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\RoboticSquade.exe.config
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\obj\Debug\RoboticSquadeTest.dll
+C:\Users\mk423e\source\repos\RoboticSquade\RoboticSquadeTest\obj\Debug\RoboticSquadeTest.pdb
